@@ -4,6 +4,7 @@ public class Garagiste {
 
 	private String nom ;
 	private String prenom ;
+	private String adresse ;
 	
 	public Garagiste (String nom , String prenom){
 		this.nom = nom ;
